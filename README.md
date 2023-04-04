@@ -8,3 +8,4 @@ Fursistant is based on Alan AI's voice using its Hello World template.
 Currently it is trained on only few custom comands on Furqan. Try asking:
 - Who/What is Furqan
 - Where can i contact him/Furqan
+- Who are you
