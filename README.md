@@ -9,10 +9,9 @@ Currently it is trained on only few custom comands on Furqan. Try asking:
 - Who/What is Furqan
 - Where can i contact him/Furqan
 - Who are you
-<br>
 
 *The background of the website changes evrytime it is reloaded*
 
-[FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)")
-[FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile")
+[FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)") <br>
+[FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile") <br>
 [FurqanHun LinkedIn](https://www.linkedin.com/in/FurqanHun "Connect with me on LinkedIn")
