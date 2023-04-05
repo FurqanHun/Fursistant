@@ -5,7 +5,7 @@ Fursistant is a voice assistant created as an after project for **"Voice Applica
 Fursistant is based on Alan AI's voice using its Hello World template.
 
 ## Custom Commands
-Currently it is trained on only few custom comands on Furqan. Try asking:
+Currently **Fursistant** is trained on small amount of data related to Furqan (me). Try asking:
 - Tell me something about him/Furqan?
 - Who/What is Furqan?
 - Where can i contact him/Furqan?
