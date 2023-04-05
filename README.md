@@ -6,9 +6,24 @@ Fursistant is based on Alan AI's voice using its Hello World template.
 
 ## Custom Commands
 Currently it is trained on only few custom comands on Furqan. Try asking:
-- Who/What is Furqan
-- Where can i contact him/Furqan
-- Who are you
+- Tell me something about him/Furqan?
+- Who/What is Furqan?
+- Where can i contact him/Furqan?
+- Who are you?
+- What's his full name?
+- What's his father's name?
+- Which school did he attend till 5th grade?
+- Which school did he attend till 10th grade or metric?
+- Which college did he attend in 11th or 1st year?
+- Which college did he attend in 2nd year or 12th?
+- Did he opt for computer science or science general in metric?
+- Did he continue with science general or computer science in intermediate?
+- What's his date of birth?
+- How old is he?
+- What skills does he have?
+- What is he currently learning?
+- What are his interests?
+- What are his social media profiles?
 
 *The background of the website changes evrytime it is reloaded*
 
